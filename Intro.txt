@@ -1,0 +1,4 @@
+In this project, our objective is to develop a color-based maze solver using OpenCV and a mechanical chassis. 
+The maze solver will use image processing techniques to extract RGB values from images captured by a camera mounted on the chassis. 
+Based on these values, the solver will make decisions on navigation, 
+including actions like Left, Right, Backward, or U-turn, to successfully navigate through the maze.
